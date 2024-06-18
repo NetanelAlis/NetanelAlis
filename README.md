@@ -1,38 +1,34 @@
-# Hello I'm Netanel 👋!
-![header](https://private-user-images.githubusercontent.com/130087473/312715225-aa91f82c-7faa-4804-b8e6-42b31ce7e6d9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2NjE1NTIsIm5iZiI6MTcxODY2MTI1MiwicGF0aCI6Ii8xMzAwODc0NzMvMzEyNzE1MjI1LWFhOTFmODJjLTdmYWEtNDgwNC1iOGU2LTQyYjMxY2U3ZTZkOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxN1QyMTU0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YjkxZDAxMDVlMTExNmZkMTVhNmE3N2MzZDczNzJjNWRmYTUzZTAwMTQyOTc0YWFmNWJhODA1ZTdhOTE4MGQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.A4GIYNuGYOTEw1vy4cp7CS4swJl9We3TzH2L9iNIL8M)
-
-<div class="github-introduction">
-
-I'm a Web Developer passionate about turning ideas into reality through code. 
+<div id="header" align="center">
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h1>
+    I am a Full Stack Developer from Israel
+    </h1>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/netanel-alis-977930234/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>   
+  </div>
+  
 </div>
 
-💼 You can Content me via <a href="netanelalis11@gmail.com">email</a>
- <a href="https://www.linkedin.com/in/netanel-alis-977930234/">linkedin</a>
 
+---
 
-<div class="badges-intro">
-
-## 🛠 Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoWidth=50)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoWidth=50)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoWidth=50)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoWidth=50)
-![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoWidth=50)
-![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=c-sharp&logoWidth=50)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoWidth=50)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoWidth=50)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoWidth=50)
-
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>
 </div>
 
-## 📃 I love documentation
-
-Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. 
-
-Whenever I write documentation i try to follow keep in mind the following steps to make sure the reader gets the most out of it:
-
-```markdown
-1. **What** is this documentation about?
-2. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation
-```
+---
